@@ -1,9 +1,9 @@
 # CMIT AI OS Research Program
 <img src="CMIT-AIOS.png" align="right" width="140">
 
-An LLM OS is an operating system that utilizes large language models to interact with users in natural language, providing intuitive and intelligent assistance. This list compiles resources to help understand, develop, and explore the possibilities of LLM OS. The objective is to create a well-organized, community-driven repository of current, top-quality resources. This initiative aims to enhance practices within the LLM OS and related domains. 
+An AI OS is an operating system that utilizes large language models(LLM) to interact with users in natural language, providing intuitive and intelligent assistance. This list compiles resources to help understand, develop, and explore the possibilities of AI OS. The objective is to create a well-organized, community-driven repository of current, top-quality resources. This initiative aims to enhance practices within the AI OS and related domains. 
 
-This is a curated list of awesome resources, tools, frameworks, papers, projects and discussions related to the concept of Large Language Model Operating Systems (LLM OS). Explore the future of human-computer interaction with natural language interfaces powered by advanced AI.
+This is a curated list of awesome resources, tools, frameworks, papers, projects and discussions related to the concept of Large Language Model Operating Systems . Explore the future of human-computer interaction with natural language interfaces powered by advanced AI.
 
 
 I highly recommend that you take the time to watch [Andrej Karpathy](https://github.com/karpathy)'s [presentation on LLM OS](https://youtu.be/zjkBMFhNj_g?feature=shared&t=2536).
