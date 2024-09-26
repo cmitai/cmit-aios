@@ -34,8 +34,8 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [Goodbye Windows, Hello LLMs: The Future of Operating Systems](https://medium.com/@ronaldmannak/goodbye-windows-hello-llms-the-future-of-operating-systems-7ba61ea03e8d)
 - [The Potential Revolutionary Value of LLMs as Operating Systems --Aug 16, 2024](https://medium.com/codex/the-potential-revolutionary-value-of-llms-as-operating-systems-74703ce46a5b)
 - [Introducing llm OS: Unlocking the Power of Large Language Models as Operating Systems --Jun 13, 2024](https://medium.com/@honeyricky1m3/introducing-llm-os-unlocking-the-power-of-large-language-models-as-operating-systems-54274d0d8474)
-- [计算机行业深度研究：全球大模型将往何处去？](https://finance.sina.com.cn/stock/stockzmt/2024-09-01/doc-incmscve4863669.shtml)
-  预期#6：从普通操作系统到 LLM 操作系统  
+- [计算机行业深度研究：全球大模型将往何处去？](https://finance.sina.com.cn/stock/stockzmt/2024-09-01/doc-incmscve4863669.shtml)<br>
+预期#6：从普通操作系统到 LLM 操作系统  
 LLM 操作系统是 Agent 在系统层面的具象化。LLM OS 是前 OpenAI 科学家 Andrej Karpathy 提出的设想，其中LLM 将替代 CPU 作为操作系统核心，LLM 的上下文窗口是 RAM，接受用户指令并输出控制指令，在 LLM 核心外部有存储、工具、网络等各种“外设” 供LLM 调用。我们认为，从结构上看，LLM OS 和图表 67 所示的 Agent 架构十分相似， 可以看做 Agent 在操作系统领域的具象化。LLM OS 的核心就是模型能力，随着 GPT-5 推 理性能的不断提升，我们认为 LLM 和 OS 结合的范式将更有可能实现，届时人类和 OS 的 交互方式将不再以键鼠操作为主，而会转向基于LLM 的自然语言或语音操作，进一步解放 人类双手，实现交互方式的升级。
 - [LLMs are the new CPUs --March 15, 2023](https://every.to/divinations/llms-are-the-new-cpus?sid=26026)
 
