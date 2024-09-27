@@ -18,6 +18,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 - [Performance and Optimization](#performance-and-optimization)
 - [Security](#security)
 - [Deployment](#deployment)
+- [Business Implementation](#business-implementation)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -31,6 +32,7 @@ I highly recommend that you take the time to watch [Andrej Karpathy](https://git
 <img src="https://pbs.twimg.com/media/F-nOa_rboAAqe0o?format=png" align="right" width="300">
 
 - [Illustrated LLM-OS](https://huggingface.co/blog/shivance/illustrated-llm-os)
+- [Simulators --](https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/simulators)
 - [Goodbye Windows, Hello LLMs: The Future of Operating Systems](https://medium.com/@ronaldmannak/goodbye-windows-hello-llms-the-future-of-operating-systems-7ba61ea03e8d)
 - [The Potential Revolutionary Value of LLMs as Operating Systems --Aug 16, 2024](https://medium.com/codex/the-potential-revolutionary-value-of-llms-as-operating-systems-74703ce46a5b)
 - [Introducing llm OS: Unlocking the Power of Large Language Models as Operating Systems --Jun 13, 2024](https://medium.com/@honeyricky1m3/introducing-llm-os-unlocking-the-power-of-large-language-models-as-operating-systems-54274d0d8474)
@@ -65,7 +67,10 @@ LLM 操作系统是 Agent 在系统层面的具象化。LLM OS 是前 OpenAI 科
 - 
 
 ## Deployment
-- 
+-
+
+## Business Implementation
+- [AIOS Foundation](http://aios.foundation/)
 
 ## Contributing
 Contributions are more than welcome! 🌟
